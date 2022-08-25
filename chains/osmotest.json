@@ -1,0 +1,16 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "osmokey",
+    "chain-id": "osmo-test-4",
+    "rpc-addr": "https://osmo-fleet.poolparty.stridenet.co:443",
+    "account-prefix": "osmo",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001uosmo",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
